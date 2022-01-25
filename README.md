@@ -1,3 +1,3 @@
 MERLB
 ===
-src/SAC_auto_bid/main.py
+src/SAC_AUTO_BID/main.py
